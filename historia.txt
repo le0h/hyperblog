@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 esta es la historia de leo
 
 para mi que patito va a ir en cana
@@ -7,3 +8,11 @@ y creo que no llego al pase de valorant o quizas si
 patito posta que va a ir en cana
 
 voy a llamar al fbi
+=======
+Esta es una linea de comandos
+
+Esta es otra linea de comandos
+Agrego una más.
+
+Estaba mintiendo, no eran lineas de comandos.
+>>>>>>> 66ab3a8fc301e4e2ac502fb561303a287e0b9033
